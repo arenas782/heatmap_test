@@ -1,3 +1,4 @@
 # heatmap_test
 
-[![Demo heatmap](https://gifs.com/gif/q7GBnp)]
+
+![Demo heatmap](https://j.gifs.com/q7GBnp.gif)
