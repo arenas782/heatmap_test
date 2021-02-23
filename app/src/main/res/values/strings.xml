@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="legend">Legend</string>
+    <string name="zero"> Equal 0 </string>
+    <string name="from_1_to_9"> From 1 to 9 </string>
+    <string name="from_10_to_29"> From 10 to 29 </string>
+    <string name="from_30_to_69"> From 30 to 69 </string>
+    <string name="greater_than_70"> Greater than 70 </string>
+</resources>
